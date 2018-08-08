@@ -1,12 +1,8 @@
-# www-lite-server
-Leverage a single installation of  lite-server for multiple projects
+# Simple HTML Page using HTML CSS and JS with form Validation 
 
-This project is stored on GitHub here:
+### Screen shots
 
-https://github.com/t-palmer/www-lite-server
+![Screen 1](https://github.com/Dhineshkumaru/facebook-login/tree/master/Screenshots/Untitled.jpg)
 
 
-## Configuration
-
-The configuration file for lite-server is: bs-config.json
-
+![Screen 2](https://github.com/Dhineshkumaru/facebook-login/tree/master/Screenshots/facebook login.jpg)

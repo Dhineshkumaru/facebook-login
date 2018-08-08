@@ -2,7 +2,7 @@
 
 ### Screen shots
 
-![Screen 1](https://github.com/Dhineshkumaru/facebook-login/tree/master/Screenshots/Untitled.jpg)
+![Alt Screen_1](https://github.com/Dhineshkumaru/facebook-login/blob/master/Screenshots/Untitled.jpg)
 
 
-![Screen 2](https://github.com/Dhineshkumaru/facebook-login/tree/master/Screenshots/facebook login.jpg)
+![Alt Screen_2](https://github.com/Dhineshkumaru/facebook-login/blob/master/Screenshots/facebook%20login.jpg)

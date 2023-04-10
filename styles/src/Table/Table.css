@@ -1,0 +1,38 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  /* tr:nth-child(even) {
+    background-color: #dddddd;
+  } */
+  .th-filter{
+    margin-left: 15px;
+    cursor: pointer;
+    background: transparent;
+    border: none;
+    
+  }
+  .th-filter img{
+    width: 20px;
+  }
+  /* .column-tr{
+    display: flex;
+  }
+
+  .column-header{
+    display: inline-flex;
+    align-items: center;
+    width: 119px;
+  } */
+
+  .table-style{
+    margin-bottom: 20px;
+  }
